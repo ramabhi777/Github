@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CountDownViewController.h
 //  WeblinkDemo
 //
 //  Created by Abhishek Shukla on 14/12/15.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface CountDownViewController : UIViewController
 
 @end
